@@ -1,6 +1,14 @@
 # my-csharp-coding-style
 # C# at Google Style Guide
 
+# Welcome to the C# Coding Style Guide
+In the world of coding, consistency is key. This guide outlines the C# coding style that defines my open-source and personal projects. By adhering to these conventions, we ensure clean, maintainable, and collaborative code. Whether you're contributing or simply exploring, this guide offers a compass to navigate our coding landscape.
+
+Let's write code that not only works but inspires.
+
+[Belton Menete]
+[bymenete@gmail.com]
+[08/08/2023]
 This style guide is for C# code developed internally at Google, and is the
 default style for C# code at Google. It makes stylistic choices that conform to
 other languages at Google, such as Google C++ style and Google Java style.
