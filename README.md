@@ -1,6 +1,6 @@
 # csharp-coding-style
 # C# Coding Standards and Naming Conventions
-##Welcome to the C# Coding Style Guide
+# Welcome to the C# Coding Style Guide
 <p> In the world of coding, consistency is key. This guide outlines the C# coding style that defines my open-source and personal projects. By adhering to these conventions, we ensure clean, maintainable, and collaborative code. Whether you're contributing or simply exploring, this guide offers a compass to navigate our coding landscape.
 </p>
 #Let's write code that not only works but inspires.
